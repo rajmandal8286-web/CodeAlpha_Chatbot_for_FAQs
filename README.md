@@ -68,7 +68,3 @@ To add more support answers, edit `faqs.json` and add entries in this format:
   "answer": "Go to 'My Orders' in your account and click 'Track'."
 }
 ```
-
-## License
-
-This project is provided as-is for learning and demo purposes.
